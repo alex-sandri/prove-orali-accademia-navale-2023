@@ -4,9 +4,11 @@
 
 ### Gruppo 1
 
-a. [Il concetto di welfare State](Welfare-State.md)
+a. [Il concetto di welfare State](1a.md)
 
 ### Gruppo 2
+
+a. [Le partizioni fondamentali del diritto: diritto nazionale e diritto internazionale](2a.md)
 
 ### Gruppo 3
 
