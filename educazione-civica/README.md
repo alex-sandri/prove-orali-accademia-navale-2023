@@ -12,6 +12,8 @@ a. [Le partizioni fondamentali del diritto: diritto nazionale e diritto internaz
 
 ### Gruppo 3
 
+a. [Diritto nazionale e diritto internazionale. Distinzione](2a.md) (*Vedi 2a*)
+
 ### Gruppo 4
 
 ### Gruppo 5
