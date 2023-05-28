@@ -28,6 +28,8 @@ c. [La guerra nella Costituzione Italiana](6c.md)
 
 ### Gruppo 7
 
+a. [La bandiera italiana](7a.md)
+
 ### Gruppo 8
 
 ### Gruppo 9
