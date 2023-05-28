@@ -20,6 +20,8 @@ c. [Organi dell'Unione Europea](4c.md)
 
 ### Gruppo 5
 
+c. [La Costituzione della Repubblica Italiana: caratteristiche generali e partizioni](5c.md)
+
 ### Gruppo 6
 
 ### Gruppo 7
