@@ -24,6 +24,8 @@ c. [La Costituzione della Repubblica Italiana: caratteristiche generali e partiz
 
 ### Gruppo 6
 
+c. [La guerra nella Costituzione Italiana](6c.md)
+
 ### Gruppo 7
 
 ### Gruppo 8
