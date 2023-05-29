@@ -32,6 +32,8 @@ a. [La bandiera italiana](7a.md)
 
 ### Gruppo 8
 
+c. [I principali tipi di norme emanati dall'Unione Europea](8c.md)
+
 ### Gruppo 9
 
 ### Gruppo 10
