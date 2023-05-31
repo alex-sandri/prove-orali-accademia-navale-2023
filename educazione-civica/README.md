@@ -36,6 +36,8 @@ c. [I principali tipi di norme emanati dall'Unione Europea](8c.md)
 
 ### Gruppo 9
 
+a. [Il Presidente della Repubblica: elezione, poteri e prerogative](9a.md)
+
 ### Gruppo 10
 
 ### Gruppo 11
