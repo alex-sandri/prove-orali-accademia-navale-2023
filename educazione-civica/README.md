@@ -44,7 +44,7 @@ b. [L'Organizzazione Mondiale della Sanità](10b.md)
 
 ### Gruppo 11
 
-a. [L'Euro e la sua funzione nel'unificazione europea](11a.md)
+a. [L'Euro e la sua funzione nell'unificazione europea](11a.md)
 
 ### Gruppo 12
 
