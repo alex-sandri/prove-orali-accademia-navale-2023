@@ -52,6 +52,8 @@ a. [I principi fondamentali della Costituzione italiana (artt. 1-12)](12a.md)
 
 ### Gruppo 13
 
+a. [Le autonomie locali: Regioni, Province, Comuni](13a.md)
+
 ### Gruppo 14
 
 ### Gruppo 15
