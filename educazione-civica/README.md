@@ -48,6 +48,8 @@ a. [L'Euro e la sua funzione nel'unificazione europea](11a.md)
 
 ### Gruppo 12
 
+a. [I principi fondamentali della Costituzione italiana (artt. 1-12)](12a.md)
+
 ### Gruppo 13
 
 ### Gruppo 14
