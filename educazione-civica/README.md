@@ -55,13 +55,3 @@ a. [I principi fondamentali della Costituzione italiana (artt. 1-12)](12a.md)
 ### Gruppo 14
 
 ### Gruppo 15
-
-### Gruppo 16
-
-### Gruppo 17
-
-### Gruppo 18
-
-### Gruppo 19
-
-### Gruppo 20
