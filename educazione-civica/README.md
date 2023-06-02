@@ -56,4 +56,6 @@ a. [Le autonomie locali: Regioni, Province, Comuni](13a.md)
 
 ### Gruppo 14
 
+c. [La società e lo Stato: definizioni](14c.md)
+
 ### Gruppo 15
