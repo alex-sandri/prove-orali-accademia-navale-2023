@@ -4,6 +4,8 @@
 
 ### Gruppo 1
 
+b. [La Prima Guerra Mondiale: cause, schieramenti](1b.md)
+
 ### Gruppo 2
 
 ### Gruppo 3
