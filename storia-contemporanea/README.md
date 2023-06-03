@@ -8,6 +8,8 @@ b. [La Prima Guerra Mondiale: cause, schieramenti](1b.md)
 
 ### Gruppo 2
 
+c. [La Guerra dei 6 giorni](2c.md)
+
 ### Gruppo 3
 
 ### Gruppo 4
