@@ -12,6 +12,8 @@ c. [La Guerra dei 6 giorni](2c.md)
 
 ### Gruppo 3
 
+c. [La crisi dello Stato liberale e l'avvento del fascismo in Italia](3c.md)
+
 ### Gruppo 4
 
 ### Gruppo 5
