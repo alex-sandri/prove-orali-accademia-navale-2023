@@ -20,6 +20,8 @@ b. [L'equilibrio del terrore e la Guerra fredda](4b.md)
 
 ### Gruppo 5
 
+a. [La Guerra d'Etiopia](5a.md)
+
 ### Gruppo 6
 
 ### Gruppo 7
