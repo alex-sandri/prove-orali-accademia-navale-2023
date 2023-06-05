@@ -16,6 +16,8 @@ c. [La crisi dello Stato liberale e l'avvento del fascismo in Italia](3c.md)
 
 ### Gruppo 4
 
+b. [L'equilibrio del terrore e la Guerra fredda](4b.md)
+
 ### Gruppo 5
 
 ### Gruppo 6
