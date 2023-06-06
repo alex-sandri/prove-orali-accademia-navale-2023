@@ -24,6 +24,8 @@ a. [La Guerra d'Etiopia](5a.md)
 
 ### Gruppo 6
 
+c. [Il Progetto Manhattan e la fine del secondo conflitto mondiale](6c.md)
+
 ### Gruppo 7
 
 ### Gruppo 8
