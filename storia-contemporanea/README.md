@@ -36,6 +36,8 @@ c. [La NATO e il PATTO DI VARSAVIA](8c.md)
 
 ### Gruppo 9
 
+c. [Seconda Guerra mondiale: l'ingresso dell'Italia](9c.md)
+
 ### Gruppo 10
 
 ### Gruppo 11
