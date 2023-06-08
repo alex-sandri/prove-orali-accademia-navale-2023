@@ -28,6 +28,8 @@ c. [Il Progetto Manhattan e la fine del secondo conflitto mondiale](6c.md)
 
 ### Gruppo 7
 
+c. [Prima Guerra Mondiale. Eventi principali](7c.md)
+
 ### Gruppo 8
 
 ### Gruppo 9
