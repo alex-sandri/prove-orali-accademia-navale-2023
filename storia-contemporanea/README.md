@@ -40,6 +40,8 @@ c. [Seconda Guerra mondiale: l'ingresso dell'Italia](9c.md)
 
 ### Gruppo 10
 
+a. [L'età giolittiana e la Guerra italo-turca](10a.md)
+
 ### Gruppo 11
 
 ### Gruppo 12
