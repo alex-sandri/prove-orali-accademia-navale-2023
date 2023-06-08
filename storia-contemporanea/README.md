@@ -32,6 +32,8 @@ c. [Prima Guerra Mondiale. Eventi principali](7c.md)
 
 ### Gruppo 8
 
+c. [La NATO e il PATTO DI VARSAVIA](8c.md)
+
 ### Gruppo 9
 
 ### Gruppo 10
