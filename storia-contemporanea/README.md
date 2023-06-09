@@ -44,6 +44,8 @@ a. [L'età giolittiana e la Guerra italo-turca](10a.md)
 
 ### Gruppo 11
 
+c. [L'Italia dalla neutralità all'entrata nel primo conflitto mondiale](11c.md)
+
 ### Gruppo 12
 
 ### Gruppo 13
