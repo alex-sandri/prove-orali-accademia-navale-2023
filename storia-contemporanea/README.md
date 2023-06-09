@@ -52,6 +52,8 @@ b. [L'avvento del fascismo](3c.md) (*Vedi 3c*)
 
 ### Gruppo 13
 
+c. [La Guerra fredda](4b.md) (*Vedi 4b*)
+
 ### Gruppo 14
 
 ### Gruppo 15
