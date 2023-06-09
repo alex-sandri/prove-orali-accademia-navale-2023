@@ -48,6 +48,8 @@ c. [L'Italia dalla neutralità all'entrata nel primo conflitto mondiale](11c.md)
 
 ### Gruppo 12
 
+b. [L'avvento del fascismo](3c.md) (*Vedi 3c*)
+
 ### Gruppo 13
 
 ### Gruppo 14
