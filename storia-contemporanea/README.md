@@ -62,6 +62,8 @@ c. [La Guerra fredda](4b.md) (*Vedi 4b*)
 
 ### Gruppo 17
 
+a. [La Prima Guerra mondiale e i principali eventi](7c.md) (*Vedi 7c*)
+
 ### Gruppo 18
 
 ### Gruppo 19
