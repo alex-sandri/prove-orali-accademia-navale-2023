@@ -58,6 +58,8 @@ c. [La Guerra fredda](4b.md) (*Vedi 4b*)
 
 ### Gruppo 15
 
+a. [La vittoria mutilata e le sue conseguenze](3c.md) (*Vedi 3c*)
+
 ### Gruppo 16
 
 ### Gruppo 17
