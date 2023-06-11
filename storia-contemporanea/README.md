@@ -56,6 +56,8 @@ c. [La Guerra fredda](4b.md) (*Vedi 4b*)
 
 ### Gruppo 14
 
+b. [La seconda Guerra mondiale. Cause e schieramenti](14b.md)
+
 ### Gruppo 15
 
 a. [La vittoria mutilata e le sue conseguenze](3c.md) (*Vedi 3c*)
