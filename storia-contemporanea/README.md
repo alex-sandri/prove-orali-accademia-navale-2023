@@ -64,14 +64,20 @@ a. [La vittoria mutilata e le sue conseguenze](3c.md) (*Vedi 3c*)
 
 ### Gruppo 16
 
+b. [Le guerre del Golfo](16b.md)
+
 ### Gruppo 17
 
 a. [La Prima Guerra mondiale e i principali eventi](7c.md) (*Vedi 7c*)
 
 ### Gruppo 18
 
+a. [I trattati di Parigi del 1919](18a.md)
+
 ### Gruppo 19
 
 c. [I patti lateranensi](19c.md)
 
 ### Gruppo 20
+
+a. [La fine della Seconda Guerra mondiale e la nascita dell'ONU](20a.md)
