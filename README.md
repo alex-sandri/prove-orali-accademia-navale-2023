@@ -1,6 +1,6 @@
 # Prove orali Accademia Navale 2023
 
-### Indice
+## Indice
 
 - [Educazione Civica](educazione-civica/README.md)
 - [Matematica](matematica/README.md)
