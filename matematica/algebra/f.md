@@ -5,6 +5,9 @@ l'*argomento*.\
 Il risultato della funzione logaritmica è quel numero che da esponente della
 base da come risultato l'argomento, ovvero $\log_2(8) = 3$, in quanto $2^3 = 8$.
 
+Quando la base è il *numero di Nepero*, ovvero $e$, si può scrivere come
+$\ln(b)$.
+
 ## Condizioni di esistenza
 
 $a,\ b > 0$ e $a \not = 1$
