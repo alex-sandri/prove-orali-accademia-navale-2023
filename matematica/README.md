@@ -10,7 +10,7 @@ C. [Identità, equazioni e principi di equivalenza](algebra/c.md)\
 D. [Divisibilità e decomposizione di polinomi](algebra/d.md)\
 E. [Radicali e loro trasformazione](algebra/e.md)\
 F. [La funzione logaritmo](algebra/f.md)\
-G. [la funzione esponenziale](algebra/g.md)\
+G. [La funzione esponenziale](algebra/g.md)\
 H. [Equazioni razionali e irrazionali](algebra/h.md)\
 I. [Valore assoluto e disequazioni razionali](algebra/i.md)\
 L. [Potenze e disequazioni irrazionali](algebra/l.md)\
