@@ -70,3 +70,11 @@ $b^2 = a^2 + c^2 - 2ac \cos{\beta}$\
 $c^2 = a^2 + b^2 - 2ab \cos{\gamma}$
 
 ### Teorema delle proiezioni
+
+La misura di un lato è uguale alla somma dei prodotti degli altri due per il
+coseno dell'angolo opposto all'altro lato (l'altro tra i due escluso quello da
+calcolare).
+
+$a = b \cos{\gamma} + c \cos{\beta}$\
+$b = a \cos{\gamma} + c \cos{\alpha}$\
+$c = a \cos{\beta} + b \cos{\alpha}$
