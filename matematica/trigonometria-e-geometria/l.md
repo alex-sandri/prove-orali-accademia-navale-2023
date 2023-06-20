@@ -22,6 +22,15 @@ $c = \sqrt{a^2 + b^2}$
 
 ### 1° teorema
 
+La misura di un cateto è uguale al prodotto tra l'ipotenusa e il seno
+dell'angolo opposto al cateto o al coseno dell'angolo compreso tra il cateto e
+l'ipotenusa.
+
+| | |
+| :-: | :-: |
+| $b = a \sin{\beta}$ | $c = a \sin{\gamma}$ |
+| $b = a \cos{\gamma}$ | $c = a \cos{\beta}$ |
+
 ### 2° teorema
 
 ## Triangoli qualsiasi
