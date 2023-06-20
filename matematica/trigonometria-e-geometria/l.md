@@ -28,10 +28,18 @@ l'ipotenusa.
 
 | | |
 | :-: | :-: |
-| $b = a \sin{\beta}$ | $c = a \sin{\gamma}$ |
-| $b = a \cos{\gamma}$ | $c = a \cos{\beta}$ |
+| $a = c \sin{\alpha}$ | $b = c \sin{\beta}$ |
+| $a = c \cos{\beta}$ | $b = c \cos{\alpha}$ |
 
 ### 2° teorema
+
+La misura di un cateto è uguale al prodotto tra l'altro cateto e la tangente
+dell'angolo opposto al primo o la cotangente dell'angolo opposto al secondo.
+
+| | |
+| :-: | :-: |
+| $a = b \tan{\alpha}$ | $b = a \tan{\beta}$ |
+| $a = b \cot{\beta}$ | $b = a \cos{\alpha}$ |
 
 ## Triangoli qualsiasi
 
