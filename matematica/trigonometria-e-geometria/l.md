@@ -61,4 +61,12 @@ $\frac{a}{\sin{\alpha}} = \frac{b}{\sin{\beta}} = \frac{c}{\sin{\gamma}} = 2r$
 
 ### Teorema del coseno (o di Carnot)
 
+Il quadrato di un lato è uguale alla somma dei quadrati degli altri due
+diminuita del doppio del prodotto di questi ultimi per il coseno dell'angolo
+fra essi compreso.
+
+$a^2 = b^2 + c^2 - 2bc \cos{\alpha}$\
+$b^2 = a^2 + c^2 - 2ac \cos{\beta}$\
+$c^2 = a^2 + b^2 - 2ab \cos{\gamma}$
+
 ### Teorema delle proiezioni
