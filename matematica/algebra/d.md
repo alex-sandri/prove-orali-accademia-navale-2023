@@ -16,8 +16,8 @@ Prendiamo ad esempio il polinomio $P(x) = 2x^3 - 4x^2 + 2$.
 
 Si trova una radice $r$ che annulli il polinomio, ovvero in modo che $P(r) = 0$.
 
-*La radice $r$ dell'esempio preso in considerazione sarebbe $1$, in quanto
-$P(1) = 2 - 4 + 2 = 0$*.
+*La radice* $r$ *dell'esempio preso in considerazione sarebbe* $1$*, in quanto*
+$P(1) = 2 - 4 + 2 = 0$.
 
 #### Tabella
 
